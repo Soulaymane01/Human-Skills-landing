@@ -34,7 +34,7 @@ function Hero() {
             className="mb-8"
           >
             <img 
-              src="/human Skills logo.png"
+              src="/Human-Skills-landing/human Skills logo.png"
               alt="Human Skills Club Logo" 
               className="mx-auto w-24 h-24 object-contain drop-shadow-lg"
             />
