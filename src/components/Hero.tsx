@@ -65,8 +65,7 @@ function Hero() {
             transition={{ delay: 0.5 }}
             className="text-lg md:text-xl text-white/90 max-w-3xl mx-auto mb-10 p-4 rounded-lg bg-black/30"
           >
-            Join a vibrant community dedicated to mastering essential human skills through 
-            authentic connections, collaborative learning, and personal growth experiences.
+            Hello word
           </motion.p>
 
           {/* CTA Button */}
